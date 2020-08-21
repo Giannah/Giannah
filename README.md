@@ -1,6 +1,6 @@
 # Hi, I'm Claudine, welcome!
 
-<img src="https://github.com/Giannah/Giannah/blob/master/GithubBanner.png" alt="TheRealDine-GithubBanner">
+<img src="https://github.com/Giannah/Giannah/blob/master/GithubBanner.png" width="950" alt="TheRealDine-GithubBanner">
 Although, I often describe myself as a front-end developer, I'm interested by both front-end and back-end.
 In fact, to be perfectly honest I want to understand how things work and that's why my interests go beyond just programming, I like to keep myself informed on Software development security, Web Accessibility, App containerization, Continuous Integration, DevOps, Agile software development...
 
